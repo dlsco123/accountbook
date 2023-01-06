@@ -54,7 +54,7 @@ public class MainClass {
 				break out;
 			default:
 			}
-		}
+			System.out.println("종료되었습니다");}
 
 	}
 
