@@ -16,9 +16,9 @@ public class MainClass {
 		out:while (true) {
 			System.out.println("<< 가 계 부 >>");
 			System.out.println("1. 가계부 입력");
-			System.out.println("2. 삭제");
-			System.out.println("3. 선택");
-			System.out.println("4. 수정");
+			System.out.println("2. 삭제하기");
+			System.out.println("3. 선택하기");
+			System.out.println("4. 수정하기");
 			System.out.println("5. 모두 보기");
 			System.out.println("6. 데이터저장");
 			System.out.println("7. 종료");
